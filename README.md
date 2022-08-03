@@ -1,2 +1,3 @@
-# GRIP-internship-bank-
-<a href="https://surya-bbas.github.io/Spark-internship-site-/"> check it out here! </a>
+# GRIP Internship (Bank Site):
+This site was created for the purpose of my internship at GRIP foundation which required me to create a web site which could display the details of the depositer and sender and display the net total
+<a href="https://surya-bbas.github.io/Spark-Internship-Site/"> check it out here! </a>
