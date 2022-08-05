@@ -6,7 +6,8 @@ This site was created for the purpose of my internship at GRIP foundation which 
 
 # features📚:
     App Download Section:
-    ![image](https://user-images.githubusercontent.com/99864714/183148275-1ffefc1b-0c02-4e91-a3e4-8f03bc05914b.png)
+![image](https://user-images.githubusercontent.com/99864714/183148764-c8ab0d55-1240-4a9d-aaf6-f9e9215dc4ee.png)
+
 
     
     Money Transaction Section:
